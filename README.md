@@ -1,8 +1,8 @@
 I'm a management consultant. JD/MBA. Experience with M&A, turnarounds, operations, marketing, and cross-sector work in energy, edtech, manufacturing, and services.
 
-A few years back I started using AI seriously. I have no tech background, AI just fit the way my brain works. I'm twice-exceptional (2E) with strong pattern recognition, weak working memory, and generally poor exec function related to organization, time management, etc. Every productivity system I tried ran on assumptions my ADHD brain couldn't hold and ultimately didn't work.
+A few years back I started using AI seriously. I have no tech background, AI just fit the way my brain works. I'm twice-exceptional (2E) with strong pattern recognition, weak working memory, and generally poor exec function related to organization, time management, etc. Every productivity system I've ever tried has failed to mitgate my ADHD.
 
-So I built one.
+So I built my own.
 
 ## [ai-chief-of-staff](https://github.com/jdpolasky/ai-chief-of-staff)
 
