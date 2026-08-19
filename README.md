@@ -17,6 +17,7 @@ The sequel. Version one kept growing until it had to be torn down and rebuilt sm
 ## Also public
 
 - [bloatbot](https://github.com/jdpolasky/bloatbot). An auditor for your AI workspace. Finds the bloat, proposes the cuts, touches nothing.
+- [buildbot](https://github.com/jdpolasky/buildbot). Its sibling, the builder. Interviews you, blueprints, builds only what you ratify, proves it while you watch.
 - [ai-chief-of-staff-engine](https://github.com/jdpolasky/ai-chief-of-staff-engine). The memory layer from the main repo, published as a runnable, tested kit.
 - [Notion vs Obsidian](https://github.com/jdpolasky/ai-chief-of-staff/blob/main/notion-vs-obsidian.md). The most common question my repos get, answered honestly. Updated August 2026.
 
