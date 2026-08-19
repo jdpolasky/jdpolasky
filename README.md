@@ -10,6 +10,16 @@ A personal operating system for a chaotic professional life. Built on Claude and
 
 The architecture converged independently with Andrej Karpathy's LLM Wiki, MemPalace, and Nous Research's Hermes Agent, all in a two-month window. The pattern is going public. This repo is one of the first operational versions.
 
+## [chief-of-staff-2](https://github.com/jdpolasky/chief-of-staff-2)
+
+The sequel. Version one kept growing until it had to be torn down and rebuilt smaller. An AI Chief of Staff in plain markdown: model agnostic, ADHD-first, open to anyone.
+
+## Also public
+
+- [bloatbot](https://github.com/jdpolasky/bloatbot). An auditor for your AI workspace. Finds the bloat, proposes the cuts, touches nothing.
+- [ai-chief-of-staff-engine](https://github.com/jdpolasky/ai-chief-of-staff-engine). The memory layer from the main repo, published as a runnable, tested kit.
+- [Notion vs Obsidian](https://github.com/jdpolasky/ai-chief-of-staff/blob/main/notion-vs-obsidian.md). The most common question my repos get, answered honestly. Updated August 2026.
+
 ## What I'm doing
 
 Independent consulting and fractional work across operations, marketing, and small-business builds, with AI as my operating layer. Writing and creating as [ChasingGnosis](https://www.tiktok.com/@chasinggnosis) on TikTok. Open to operator roles at AI-native companies, or enterprise engagements helping teams actually use AI.
