@@ -6,7 +6,7 @@ So I built my own.
 
 ## [ai-chief-of-staff](https://github.com/jdpolasky/ai-chief-of-staff)
 
-A personal operating system for a chaotic professional life. Built on Claude and Obsidian. It triages, tracks, briefs, and remembers. I live inside it. It's been the difference between stalled and moving.
+A personal operating system for a chaotic professional life. Built on Claude and Obsidian. It triages, tracks, briefs, and remembers.
 
 The architecture converged independently with Andrej Karpathy's LLM Wiki, MemPalace, and Nous Research's Hermes Agent, all in a two-month window. The pattern is going public. This repo is one of the first operational versions.
 
