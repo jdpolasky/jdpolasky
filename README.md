@@ -1,18 +1,18 @@
 I'm a management consultant. JD/MBA. Experience with M&A, turnarounds, operations, marketing, and cross-sector work in energy, edtech, manufacturing, and services.
 
-A few years back I started using AI seriously. I have no tech background, AI just fit the way my brain works. I'm twice-exceptional (2E) with strong pattern recognition, weak working memory, and generally poor exec function related to organization, time management, etc. Every productivity system I've ever tried has failed to mitgate my ADHD.
+A few years back I started using AI seriously. I have no tech background, AI just fit the way my brain works. I'm twice-exceptional (2E) with strong pattern recognition, weak working memory, and generally poor exec function related to organization, time management, etc. Every productivity system I've ever tried has failed to mitigate my ADHD.
 
 So I built my own.
 
-## [ai-chief-of-staff](https://github.com/jdpolasky/ai-chief-of-staff)
-
-A personal operating system for a chaotic professional life. Built on Claude and Obsidian. It triages, tracks, briefs, and remembers.
-
-The architecture converged independently with Andrej Karpathy's LLM Wiki, MemPalace, and Nous Research's Hermes Agent, all in a two-month window. The pattern is going public. This repo is one of the first operational versions.
-
 ## [chief-of-staff-2](https://github.com/jdpolasky/chief-of-staff-2)
 
-The sequel. Version one kept growing until it had to be torn down and rebuilt smaller. An AI Chief of Staff in plain markdown: model agnostic, ADHD-first, open to anyone.
+A personal operating system for a chaotic professional life, in plain markdown in an Obsidian vault. It triages, tracks, briefs, and remembers. Model agnostic, ADHD-first, open to anyone. This is the current version, so start here.
+
+New to it? The [Obsidian setup guide](https://github.com/jdpolasky/chief-of-staff-2/blob/main/obsidian-setup.md) wires your vault to an AI in a few minutes, and works with Claude Code, Codex, Gemini, and any other MCP agent.
+
+## [ai-chief-of-staff](https://github.com/jdpolasky/ai-chief-of-staff)
+
+The original. Version one kept growing until it had to be torn down and rebuilt as the repo above. It still works and shows where the ideas came from. The architecture converged independently with Andrej Karpathy's LLM Wiki, MemPalace, and Nous Research's Hermes Agent, all in a two-month window.
 
 ## Also public
 
