@@ -4,6 +4,8 @@ A few years back I started using AI seriously. I have no tech background, AI jus
 
 So I built my own.
 
+Everything below is one body of work. [chief-of-staff-2](https://github.com/jdpolasky/chief-of-staff-2) is the system. [ai-chief-of-staff-engine](https://github.com/jdpolasky/ai-chief-of-staff-engine) is its machinery. [bloatbot](https://github.com/jdpolasky/bloatbot) and [buildbot](https://github.com/jdpolasky/buildbot) are the tools that keep it lean. [ai-chief-of-staff](https://github.com/jdpolasky/ai-chief-of-staff) is where it began.
+
 ## [chief-of-staff-2](https://github.com/jdpolasky/chief-of-staff-2)
 
 A personal operating system for a chaotic professional life, in plain markdown in an Obsidian vault. It triages, tracks, briefs, and remembers. Model agnostic, ADHD-first, open to anyone. This is the current version, so start here.
@@ -18,8 +20,8 @@ The original. Version one kept growing until it had to be torn down and rebuilt 
 
 - [bloatbot](https://github.com/jdpolasky/bloatbot). An auditor for your AI workspace. Finds the bloat, proposes the cuts, touches nothing.
 - [buildbot](https://github.com/jdpolasky/buildbot). Its sibling, the builder. Interviews you, blueprints, builds only what you ratify, proves it while you watch.
-- [ai-chief-of-staff-engine](https://github.com/jdpolasky/ai-chief-of-staff-engine). The memory layer from the main repo, published as a runnable, tested kit.
-- [Notion vs Obsidian](https://github.com/jdpolasky/ai-chief-of-staff/blob/main/notion-vs-obsidian.md). Everything you need to know about using Notion and Obsidian with an LLM. Updated August 2026.
+- [ai-chief-of-staff-engine](https://github.com/jdpolasky/ai-chief-of-staff-engine). The machinery behind the system: a memory engine and the operating loop built on it, eight staged releases, runnable and tested.
+- [Notion vs Obsidian](https://github.com/jdpolasky/chief-of-staff-2/blob/main/docs/notion-vs-obsidian.md). Everything you need to know about using Notion and Obsidian with an LLM. Last verified August 2026.
 
 ## What I'm doing
 
