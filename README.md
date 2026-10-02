@@ -1,33 +1,31 @@
-I'm a management consultant. JD/MBA. Experience with M&A, turnarounds, operations, marketing, and cross-sector work in energy, edtech, manufacturing, and services.
+# Joshua Polasky
 
-A few years back I started using AI seriously. I have no tech background, AI just fit the way my brain works. I'm twice-exceptional (2E) with strong pattern recognition, weak working memory, and generally poor exec function related to organization, time management, etc. Every productivity system I've ever tried has failed to mitigate my ADHD.
+**Business first, then AI.**
 
-So I built my own.
+I'm a strategy and operations consultant and the founder of Prajna Group. Most businesses know they need AI but have no idea where to start. If you lead with AI and the business has bad processes or bottlenecks, AI just makes those problems happen faster. So I start with the business. I look at the whole operation, find where time and energy are leaking, and fix what's actually broken. Then I show where AI fits, what to do first, and who should build it.
 
-Everything below is one body of work. [chief-of-staff-2](https://github.com/jdpolasky/chief-of-staff-2) is the system. [ai-chief-of-staff-engine](https://github.com/jdpolasky/ai-chief-of-staff-engine) is its machinery. [bloatbot](https://github.com/jdpolasky/bloatbot) and [buildbot](https://github.com/jdpolasky/buildbot) are the tools that keep it lean. [ai-chief-of-staff](https://github.com/jdpolasky/ai-chief-of-staff) is where it began.
+I've spent my career running and repairing businesses. I led a 40-employee manufacturing company through federal bankruptcy and out the other side as a profitable business. I rebuilt sales and marketing at a regional services franchise and grew sales 11%, 7%, and 8% three years running. I've stabilized operations through an acquisition integration, and I've worked across manufacturing, energy, professional services, and tech.
 
-## [chief-of-staff-2](https://github.com/jdpolasky/chief-of-staff-2)
+## Why there's code here
 
-A personal operating system for a chaotic professional life, in plain markdown in an Obsidian vault. It triages, tracks, briefs, and remembers. Model agnostic, ADHD-first, open to anyone. This is the current version, so start here.
+I build my own AI tools with no coding background, so I know what they can and can't do in a real business. They started with my own ADHD. Every productivity system I tried fell apart on me, so I built one that works the way my brain does. Everything below is my own work, open source.
 
-New to it? The [Obsidian setup guide](https://github.com/jdpolasky/chief-of-staff-2/blob/main/obsidian-setup.md) wires your vault to an AI in a few minutes, and works with Claude Code, Codex, Gemini, and any other MCP agent.
+### [chief-of-staff-2](https://github.com/jdpolasky/chief-of-staff-2)
 
-## [ai-chief-of-staff](https://github.com/jdpolasky/ai-chief-of-staff)
+An AI assistant that keeps track of your calendar, your open commitments, and your standing rules for how you work, and gives you a morning brief. Plain markdown in an Obsidian vault, ADHD-first, open to anyone. This is the current version, so start here.
 
-The original. Version one kept growing until it had to be torn down and rebuilt as the repo above. It still works and shows where the ideas came from. The architecture converged independently with Andrej Karpathy's LLM Wiki, MemPalace, and Nous Research's Hermes Agent, all in a two-month window.
+### Also public
 
-## Also public
+- [bloatbot](https://github.com/jdpolasky/bloatbot). Audits your AI workspace for bloat and proposes cuts. It changes nothing without your say-so.
+- [buildbot](https://github.com/jdpolasky/buildbot). A builder agent. It interviews you, puts a one-page blueprint in front of you, builds only what you approve, and runs the result end to end while you watch.
+- [discord-digest-bot](https://github.com/jdpolasky/discord-digest-bot). A small bot that reads what a Discord server talked about and posts a short summary back, daily and weekly.
+- [ai-chief-of-staff-engine](https://github.com/jdpolasky/ai-chief-of-staff-engine). A tested memory engine, built in eight stages. My own daily system runs on plain markdown instead.
+- [ai-chief-of-staff](https://github.com/jdpolasky/ai-chief-of-staff). Version one, where the ideas began. Replaced by chief-of-staff-2, and it stays up because it still works.
 
-- [bloatbot](https://github.com/jdpolasky/bloatbot). An auditor for your AI workspace. Finds the bloat, proposes the cuts, touches nothing.
-- [buildbot](https://github.com/jdpolasky/buildbot). Its sibling, the builder. Interviews you, blueprints, builds only what you ratify, proves it while you watch.
-- [ai-chief-of-staff-engine](https://github.com/jdpolasky/ai-chief-of-staff-engine). The machinery behind the system: a memory engine and the operating loop built on it, eight staged releases, runnable and tested.
-- [Notion vs Obsidian](https://github.com/jdpolasky/chief-of-staff-2/blob/main/docs/notion-vs-obsidian.md). Everything you need to know about using Notion and Obsidian with an LLM. Last verified August 2026.
+## Work with me
 
-## What I'm doing
+If you're an owner or leader who knows AI matters and doesn't know where to begin, or you need a fractional operator, get in touch. I'll take a look at where you're at.
 
-Independent consulting and fractional work across operations, marketing, and small-business builds, with AI as my operating layer. Writing and creating as [ChasingGnosis](https://www.tiktok.com/@chasinggnosis) on TikTok. Open to operator roles at AI-native companies, or enterprise engagements helping teams actually use AI.
-
-## Get in touch
-
-- [LinkedIn](https://linkedin.com/in/joshuapolasky)
 - joshua.polasky@gmail.com
+- [LinkedIn](https://linkedin.com/in/joshuapolasky)
+- I post as [ChasingGnosis](https://www.tiktok.com/@chasinggnosis) on TikTok
