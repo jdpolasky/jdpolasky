@@ -17,11 +17,11 @@ If you own or lead a business, know AI matters, and don't know where to begin, o
 
 ## Writing
 
-- [The system that became its own project](THE-SYSTEM-THAT-BECAME-ITS-OWN-PROJECT.md). I built an AI system that grew to five thousand files and became a second job. What tearing it down taught me about adding AI to a business.
+- [The system that became its own project](THE-SYSTEM-THAT-BECAME-ITS-OWN-PROJECT.md). I built an AI system that grew to five thousand files and became a second job. Tearing it down taught me how to add AI to a business.
 
 ## Why there's code here
 
-I build my own AI tools with Claude Code, with no coding background, so I know what they can and can't do in a real business. They started with my own ADHD. Every productivity system I tried fell apart on me, so I built one that works the way my brain does. Everything below is my own work, open source.
+I build my own AI tools with Claude Code and no coding background, so I know what they can and can't do in a real business. They started with my own ADHD. Every productivity system I tried fell apart on me, so I built one that works the way my brain does. Everything below is my own work, open source.
 
 ### [chief-of-staff-2](https://github.com/jdpolasky/chief-of-staff-2) ![stars](https://img.shields.io/github/stars/jdpolasky/chief-of-staff-2?style=flat)
 
@@ -29,8 +29,8 @@ An AI assistant that keeps track of your calendar, your open commitments, and yo
 
 ### Also public
 
-- [discord-digest-bot](https://github.com/jdpolasky/discord-digest-bot). A small bot that reads what a Discord server talked about and posts a short summary back, daily and weekly. It ships with 100 automated tests, and its README spells out the safety checks.
+- [discord-digest-bot](https://github.com/jdpolasky/discord-digest-bot). A small bot that reads what a Discord server talked about and posts a short summary back, daily and weekly. It ships with 100 automated tests, and the README lists its safety checks.
 - [bloatbot](https://github.com/jdpolasky/bloatbot). Audits your AI workspace for bloat and proposes cuts. It changes nothing without your say-so.
 - [buildbot](https://github.com/jdpolasky/buildbot). A builder agent. It interviews you, puts a one-page blueprint in front of you, builds only what you approve, and runs the result end to end while you watch.
-- [ai-chief-of-staff-engine](https://github.com/jdpolasky/ai-chief-of-staff-engine). A tested memory engine, built in eight stages, with automated tests on Windows and Linux. My own daily system runs on plain markdown instead.
+- [ai-chief-of-staff-engine](https://github.com/jdpolasky/ai-chief-of-staff-engine). A memory engine built in eight stages, with automated tests that run on Windows and Linux. My own daily system runs on plain markdown instead.
 - [ai-chief-of-staff](https://github.com/jdpolasky/ai-chief-of-staff) ![stars](https://img.shields.io/github/stars/jdpolasky/ai-chief-of-staff?style=flat). Version one, where the ideas began. Replaced by chief-of-staff-2 and archived, and it still works.
